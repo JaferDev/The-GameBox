@@ -1,0 +1,1099 @@
+fileFormatVersion: 2
+guid: 7b882a0bbbcc13d4b85ad46684da4bbb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5593443332126152766
+    second: MovingAgain_0
+  - first:
+      213: 8255321727880158415
+    second: MovingAgain_1
+  - first:
+      213: 3855779728067888757
+    second: MovingAgain_2
+  - first:
+      213: -2847935916236447317
+    second: MovingAgain_3
+  - first:
+      213: -7677399362394619765
+    second: MovingAgain_4
+  - first:
+      213: -1379358282994278574
+    second: MovingAgain_5
+  - first:
+      213: -3414337902524317632
+    second: MovingAgain_6
+  - first:
+      213: -2677694523769240627
+    second: MovingAgain_7
+  - first:
+      213: -7826711140308372775
+    second: MovingAgain_8
+  - first:
+      213: 2291243371362111409
+    second: MovingAgain_9
+  - first:
+      213: -6981623201361569598
+    second: MovingAgain_10
+  - first:
+      213: 6547084419606412707
+    second: MovingAgain_11
+  - first:
+      213: 7038575956215221425
+    second: MovingAgain_12
+  - first:
+      213: 3751162930032696553
+    second: MovingAgain_13
+  - first:
+      213: 8900440945927235366
+    second: MovingAgain_14
+  - first:
+      213: 4188539839120341463
+    second: MovingAgain_15
+  - first:
+      213: -5154580664612471296
+    second: MovingAgain_16
+  - first:
+      213: 1314468209543062249
+    second: MovingAgain_17
+  - first:
+      213: 5417198876251318095
+    second: MovingAgain_18
+  - first:
+      213: -2004298259441165675
+    second: MovingAgain_19
+  - first:
+      213: -4393175940418602457
+    second: MovingAgain_20
+  - first:
+      213: 6263214349187735389
+    second: MovingAgain_21
+  - first:
+      213: -7061505608818367993
+    second: MovingAgain_22
+  - first:
+      213: -7732907445589175930
+    second: MovingAgain_23
+  - first:
+      213: -4972197060383207626
+    second: MovingAgain_24
+  - first:
+      213: -6789471187784269233
+    second: MovingAgain_25
+  - first:
+      213: -8676122726390025618
+    second: MovingAgain_26
+  - first:
+      213: 1582309839794195917
+    second: MovingAgain_27
+  - first:
+      213: 5326074381575607403
+    second: MovingAgain_28
+  - first:
+      213: -4154080963554280290
+    second: MovingAgain_29
+  - first:
+      213: 2923536093168503284
+    second: MovingAgain_30
+  - first:
+      213: 6171982304328661689
+    second: MovingAgain_31
+  - first:
+      213: -3671926485540919622
+    second: MovingAgain_32
+  - first:
+      213: 6640967268463970547
+    second: MovingAgain_33
+  - first:
+      213: -346450961852006426
+    second: MovingAgain_34
+  - first:
+      213: -5321376814704649389
+    second: MovingAgain_35
+  - first:
+      213: 6632308949200475944
+    second: MovingAgain_36
+  - first:
+      213: -3086093985685009922
+    second: MovingAgain_37
+  - first:
+      213: -5307444637433439489
+    second: MovingAgain_38
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MovingAgain_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 61
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7e75dbce81062b0800000000000000
+      internalID: -5593443332126152766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 66
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc5cd87f5bc09270800000000000000
+      internalID: 8255321727880158415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 66
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57683afdb3b728530800000000000000
+      internalID: 3855779728067888757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 70
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba166a98f591a78d0800000000000000
+      internalID: -2847935916236447317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 67
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8088add4f5647590800000000000000
+      internalID: -7677399362394619765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 71
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f122423f88bdce0800000000000000
+      internalID: -1379358282994278574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 71
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040c2e084c5dd90d0800000000000000
+      internalID: -3414337902524317632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 66
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3c9b5840be6dad0800000000000000
+      internalID: -2677694523769240627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2b3528fafe16390800000000000000
+      internalID: -7826711140308372775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfc10ce4b12ccf10800000000000000
+      internalID: 2291243371362111409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 63
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8d73740ba4c1f90800000000000000
+      internalID: -6981623201361569598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad7229779aebda50800000000000000
+      internalID: 6547084419606412707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc40da4a8b0ea160800000000000000
+      internalID: 7038575956215221425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec56337fcece0430800000000000000
+      internalID: 3751162930032696553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 48
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627a55e32e7b48b70800000000000000
+      internalID: 8900440945927235366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 42
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9f656bacea02a30800000000000000
+      internalID: 4188539839120341463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 46
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e3da712304778b0800000000000000
+      internalID: -5154580664612471296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_17
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 43
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2ab5a4fdded3210800000000000000
+      internalID: 1314468209543062249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 46
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47ea982da1cd2b40800000000000000
+      internalID: 5417198876251318095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 46
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a531e2a5d4f24e0800000000000000
+      internalID: -2004298259441165675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 37
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a7e8b12cd4803c0800000000000000
+      internalID: -4393175940418602457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 34
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fd67344486be650800000000000000
+      internalID: 6263214349187735389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_22
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 33
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702e3feef0e700e90800000000000000
+      internalID: -7061505608818367993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_23
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 40
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6811fa026a13fa490800000000000000
+      internalID: -7732907445589175930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f0e9e0e153ffab0800000000000000
+      internalID: -4972197060383207626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_25
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 32
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f428e574de3f6c1a0800000000000000
+      internalID: -6789471187784269233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 32
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6234d13958389780800000000000000
+      internalID: -8676122726390025618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_27
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdc9857a6e75f510800000000000000
+      internalID: 1582309839794195917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_28
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b645f196e640ae940800000000000000
+      internalID: 5326074381575607403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_29
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c72277f5db956c0800000000000000
+      internalID: -4154080963554280290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f98751569c729820800000000000000
+      internalID: 2923536093168503284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_31
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bab189843947a550800000000000000
+      internalID: 6171982304328661689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab62cfbe052ba0dc0800000000000000
+      internalID: -3671926485540919622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_33
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f88ac99b84792c50800000000000000
+      internalID: 6640967268463970547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_34
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eff7be8fa8213bf0800000000000000
+      internalID: -346450961852006426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_35
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 13
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b978b1bfba626b0800000000000000
+      internalID: -5321376814704649389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_36
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 10
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8271dbd89d1ba0c50800000000000000
+      internalID: 6632308949200475944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_37
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef986cfeeddfb25d0800000000000000
+      internalID: -3086093985685009922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingAgain_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa5ab8e83b2856b0800000000000000
+      internalID: -5307444637433439489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MovingAgain_0: -5593443332126152766
+      MovingAgain_1: 8255321727880158415
+      MovingAgain_10: -6981623201361569598
+      MovingAgain_11: 6547084419606412707
+      MovingAgain_12: 7038575956215221425
+      MovingAgain_13: 3751162930032696553
+      MovingAgain_14: 8900440945927235366
+      MovingAgain_15: 4188539839120341463
+      MovingAgain_16: -5154580664612471296
+      MovingAgain_17: 1314468209543062249
+      MovingAgain_18: 5417198876251318095
+      MovingAgain_19: -2004298259441165675
+      MovingAgain_2: 3855779728067888757
+      MovingAgain_20: -4393175940418602457
+      MovingAgain_21: 6263214349187735389
+      MovingAgain_22: -7061505608818367993
+      MovingAgain_23: -7732907445589175930
+      MovingAgain_24: -4972197060383207626
+      MovingAgain_25: -6789471187784269233
+      MovingAgain_26: -8676122726390025618
+      MovingAgain_27: 1582309839794195917
+      MovingAgain_28: 5326074381575607403
+      MovingAgain_29: -4154080963554280290
+      MovingAgain_3: -2847935916236447317
+      MovingAgain_30: 2923536093168503284
+      MovingAgain_31: 6171982304328661689
+      MovingAgain_32: -3671926485540919622
+      MovingAgain_33: 6640967268463970547
+      MovingAgain_34: -346450961852006426
+      MovingAgain_35: -5321376814704649389
+      MovingAgain_36: 6632308949200475944
+      MovingAgain_37: -3086093985685009922
+      MovingAgain_38: -5307444637433439489
+      MovingAgain_4: -7677399362394619765
+      MovingAgain_5: -1379358282994278574
+      MovingAgain_6: -3414337902524317632
+      MovingAgain_7: -2677694523769240627
+      MovingAgain_8: -7826711140308372775
+      MovingAgain_9: 2291243371362111409
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

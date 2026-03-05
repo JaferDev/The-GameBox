@@ -1,0 +1,17 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="Credits">
+			<method name="CloseCredits"/>
+			<method name="OpenCredits"/>
+		</type>
+		<type fullname="NextScene">
+			<method name="GoNextScene"/>
+		</type>
+		<type fullname="ShowTutorial">
+			<method name="CloseTutorial"/>
+			<method name="NextPage"/>
+			<method name="NextPage"/>
+			<method name="OpenTutorial"/>
+		</type>
+	</assembly>
+</linker>
