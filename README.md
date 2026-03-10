@@ -3,10 +3,7 @@ This repository contains all information about The GameBox including all project
 
 Paths for AstroShot Builds:
     1. Keyboard Input:
-        AstroShot Builds/Keyboard Input/AstroShot Keyboard.exe
-    
-    2. The GameBox Input:
-        AstroShot Builds/Keyboard Input/Space Invaders GameBox.exe
+        AstroShot Builds\AstroShot Keyboard Version Installer.exe
 
 To Edit AstroShot in the Unity game engine:
     1. Pull from this repository to your local disk
